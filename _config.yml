@@ -1,0 +1,32 @@
+title: "Harsh R. Darji"
+tagline: "PhD Candidate · Heterogeneous Catalysis · Machine Learning"
+description: "PhD researcher in Chemical & Biological Engineering at UW-Madison. Working at the intersection of heterogeneous catalysis, reaction engineering, and interpretable machine learning."
+url: "https://harshdarji.com"
+baseurl: ""
+
+author:
+  name: "Harsh R. Darji"
+  email: "hdarji@wisc.edu"
+  institution: "University of Wisconsin–Madison"
+  department: "Chemical & Biological Engineering"
+  linkedin: "https://www.linkedin.com/in/harsh-darji-ict/"
+  github: "https://github.com/HarshD16112"
+  google_scholar: "https://scholar.google.com"
+  orcid: ""
+  cv_pdf: "/assets/Harsh_Darji_CV.pdf"
+
+permalink: pretty
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git

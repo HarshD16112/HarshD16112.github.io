@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Awards & Skills"
+    url: "/awards-skills/"
+  - title: "CV"
+    url: "/cv/"
